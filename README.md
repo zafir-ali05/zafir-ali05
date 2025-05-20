@@ -1,4 +1,10 @@
-## Hi there 👋
+### 👋 Hi there, I'm Zafir Ali!
+
+- 🎓 Incoming third-year Computer Science student at the University of Guelph.
+- 🤔 Check out my current [portfolio](https://zafira05.me/)!
+- 🔭 I’m currently working on wordzzz.xyz (Wordz)
+- ⚡ Fun fact: I'm a HUGE gamer, so hit me up if you're down to play!
+- 📫 Reach me here: zafir.ali05@gmail.com
 
 <!--
 **zafir-ali05/zafir-ali05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
